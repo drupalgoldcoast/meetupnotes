@@ -31,3 +31,16 @@
 ### End of life of Mollom. What can you use instead?
 [http://befused.com/drupal/mollom-eol](http://befused.com/drupal/mollom-eol)
 
+### Antibot module for Comment Spam, Alternative to Mollom End Of Life
+[https://2bits.com/articles/antibot-module-comment-spam-alternative-mollom-end-life.html](https://2bits.com/articles/antibot-module-comment-spam-alternative-mollom-end-life.html) Suggests antibot module (does not disable page cache like reCAPTCHA and Honeypot).
+
+### What’s new on Drupal.org? - April 2017
+[https://www.drupal.org/drupalorg/blog/whats-new-on-drupalorg-april-2017](https://www.drupal.org/drupalorg/blog/whats-new-on-drupalorg-april-2017) DrupalCon Vienna site launched, DrupalCon Nashville Announced with new DrupalCon Brand, Starring Projects, Composer Sub-tree splits of Drupal.
+
+### Drupal VM Does Docker
+[https://www.jeffgeerling.com/blog/2017/drupal-vm-does-docker](https://www.jeffgeerling.com/blog/2017/drupal-vm-does-docker) "...with 4.5.0, Drupal VM now supports Docker as an experimental alternative to Vagrant + VirtualBox, and you can use Drupal VM with Docker".
+
+## Videos
+
+### Presentation: Docker & Drupal for local development
+[https://www.mydropwizard.com/blog/presentation-docker-drupal-local-development](https://www.mydropwizard.com/blog/presentation-docker-drupal-local-development)
