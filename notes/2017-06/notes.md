@@ -11,6 +11,9 @@
 ### stylelint replacing csslint in core
 [https://www.drupal.org/node/2868114](https://www.drupal.org/node/2868114) Core now requires yarn for CSS linting.
 
+### New Drupal 8 Committer: Lee Rowlands!
+[https://groups.drupal.org/node/516921](https://groups.drupal.org/node/516921)
+
 ## Articles
 
 ### DrupalCon Nashville April 2018
@@ -52,6 +55,12 @@
 ### Webpack Starter Kit
 [https://www.adcisolutions.com/knowledge/webpack-starter-kit](https://www.adcisolutions.com/knowledge/webpack-starter-kit)
 
+### The Ten Commandments of a New Drupal 8 Site for Enterprise Developers
+[https://www.lullabot.com/articles/the-ten-commandments-of-a-new-drupal-8-site-for-enterprise-developers](https://www.lullabot.com/articles/the-ten-commandments-of-a-new-drupal-8-site-for-enterprise-developers)
+
+### Drupal 8: My Experience Crossing The Chasm With SooperThemes
+[http://www.sooperthemes.com/drupal-blog/drupal-8-crossing-chasm-sooperthemes](http://www.sooperthemes.com/drupal-blog/drupal-8-crossing-chasm-sooperthemes)
+
 ## Tutorials
 
 ### ThinkShout: Fade to Black - Responsive CSS Gradients
@@ -66,3 +75,6 @@
 
 ### Drupal Governance with Megan Sanicki and Whitney Hess
 [https://www.lullabot.com/podcasts/drupalizeme-podcast/drupal-governance-with-megan-sanicki-and-whitney-hess](https://www.lullabot.com/podcasts/drupalizeme-podcast/drupal-governance-with-megan-sanicki-and-whitney-hess)
+
+### DrupalEasy Podcast 193 - Evolving Community Governance - Adam Bergstein
+[https://www.drupaleasy.com/podcast/2017/06/drupaleasy-podcast-193-evolving-community-governance-adam-bergstein](https://www.drupaleasy.com/podcast/2017/06/drupaleasy-podcast-193-evolving-community-governance-adam-bergstein)
